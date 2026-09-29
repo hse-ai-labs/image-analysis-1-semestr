@@ -46,15 +46,20 @@
 На семинаре разберём `H × W × C`, RGB/BGR, `uint8` и `float`, crop/resize, grayscale, гистограммы, gamma и JPEG.
 
 - **Лекция:** [`L01.pdf`](./1/L01.pdf)
+- **Видео лекций 1–2:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing)
 - **Notebook:** [`1_seminar_images_arrays.ipynb`](./1/1_seminar_images_arrays.ipynb)
 
 ### [Лекция 2. Точечные и гистограммные преобразования, цвет](./2/)
 
 - **Лекция:** [`L02.pdf`](./2/L02.pdf)
+- **Видео лекций 1–2:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing)
+- **Видео семинара 2:** [Google Drive](https://drive.google.com/file/d/1Qzjf75Q5r8yVLQyzh35k2ri7MlLs6fg8/view?usp=sharing)
+- **Notebook:** [`2_seminar_point_hist_color_student.ipynb`](./2/2_seminar_point_hist_color_student.ipynb)
 
 ### [Лекция 3. Свёртка и фильтрация](./3/)
 
 - **Лекция:** [`L03.pdf`](./3/L03.pdf)
+- **Видео лекции 3:** [Google Drive](https://drive.google.com/file/d/1IDORRAhaiXQs47Lmzb6KV9wlXx6Sa4qg/view?usp=sharing)
 
 ---
 

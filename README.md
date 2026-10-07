@@ -60,7 +60,7 @@
 
 - **Лекция:** [`L03.pdf`](./3/L03.pdf)
 - **Видео лекции 3:** [Google Drive](https://drive.google.com/file/d/1IDORRAhaiXQs47Lmzb6KV9wlXx6Sa4qg/view?usp=sharing)
-- **Notebook:** [`3_seminar_conv_filtering_student.ipynb`](./3/3_seminar_conv_filtering_student.ipynb)
+- **Notebook:** [`3_seminar_research.ipynb`](./3/3_seminar_research.ipynb)
 
 ## Домашние задания
 

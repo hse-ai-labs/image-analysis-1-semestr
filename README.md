@@ -56,10 +56,19 @@
 - **Видео семинара 2:** [Google Drive](https://drive.google.com/file/d/1Qzjf75Q5r8yVLQyzh35k2ri7MlLs6fg8/view?usp=sharing)
 - **Notebook:** [`2_seminar_point_hist_color_student.ipynb`](./2/2_seminar_point_hist_color_student.ipynb)
 
-### [Лекция 3. Свёртка и фильтрация](./3/)
+### [Семинар 3. Свёртка и фильтрация](./3/)
 
 - **Лекция:** [`L03.pdf`](./3/L03.pdf)
 - **Видео лекции 3:** [Google Drive](https://drive.google.com/file/d/1IDORRAhaiXQs47Lmzb6KV9wlXx6Sa4qg/view?usp=sharing)
+- **Notebook:** [`3_seminar_conv_filtering_student.ipynb`](./3/3_seminar_conv_filtering_student.ipynb)
+
+## Домашние задания
+
+Всего **3** домашки. Срок сдачи — **до 20 декабря**, формат — Jupyter Notebook (`.ipynb`). Материалы в папке [`hw/`](./hw/).
+
+### [ДЗ 1. Подготовка исторической рукописи к чтению](./hw/1/)
+
+Исследование методов обработки изображений для улучшения читаемости исторического документа: контраст, шум, размытие.
 
 ### [Лекция 4. Частотная область и многомасштабный анализ](./4/)
 
@@ -67,4 +76,4 @@
 
 ---
 
-*Материалы курса будут появляться в папках `1/`, `2/`, … по мере занятий.*
+*Материалы курса будут появляться в папках `1/`, `2/`, … и `hw/` по мере занятий.*

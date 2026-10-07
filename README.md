@@ -41,26 +41,29 @@
 
 ## Материалы
 
-### [Семинар 1. Изображение как массив данных](./1/)
-
-На семинаре разберём `H × W × C`, RGB/BGR, `uint8` и `float`, crop/resize, grayscale, гистограммы, gamma и JPEG.
+### [1. Изображение как сигнал и как данные](./1/)
 
 - **Лекция:** [`L01.pdf`](./1/L01.pdf)
-- **Видео лекций 1–2:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing)
-- **Notebook:** [`1_seminar_images_arrays.ipynb`](./1/1_seminar_images_arrays.ipynb)
+- **Ноутбук семинара:** [`1_seminar_images_arrays.ipynb`](./1/1_seminar_images_arrays.ipynb)
+- **Видео лекции:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing) (лекции 1–2)
 
-### [Лекция 2. Точечные и гистограммные преобразования, цвет](./2/)
+### [2. Точечные и гистограммные преобразования, цвет](./2/)
 
 - **Лекция:** [`L02.pdf`](./2/L02.pdf)
-- **Видео лекций 1–2:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing)
-- **Видео семинара 2:** [Google Drive](https://drive.google.com/file/d/1Qzjf75Q5r8yVLQyzh35k2ri7MlLs6fg8/view?usp=sharing)
-- **Notebook:** [`2_seminar_point_hist_color_student.ipynb`](./2/2_seminar_point_hist_color_student.ipynb)
+- **Ноутбук семинара:** [`2_seminar_point_hist_color_student.ipynb`](./2/2_seminar_point_hist_color_student.ipynb)
+- **Видео лекции:** [Google Drive](https://drive.google.com/file/d/1Im1982rpPLU3s-_yiSKj4Evxg1eNCQqP/view?usp=sharing) (лекции 1–2)
+- **Видео семинара:** [Google Drive](https://drive.google.com/file/d/1Qzjf75Q5r8yVLQyzh35k2ri7MlLs6fg8/view?usp=sharing)
 
-### [Семинар 3. Свёртка и фильтрация](./3/)
+### [3. Свёртка и фильтрация](./3/)
 
 - **Лекция:** [`L03.pdf`](./3/L03.pdf)
-- **Видео лекции 3:** [Google Drive](https://drive.google.com/file/d/1IDORRAhaiXQs47Lmzb6KV9wlXx6Sa4qg/view?usp=sharing)
-- **Notebook:** [`3_seminar_research.ipynb`](./3/3_seminar_research.ipynb)
+- **Ноутбук семинара:** [`3_seminar_research.ipynb`](./3/3_seminar_research.ipynb)
+- **Видео лекции:** [Google Drive](https://drive.google.com/file/d/1IDORRAhaiXQs47Lmzb6KV9wlXx6Sa4qg/view?usp=sharing)
+- **Видео семинара:** [Google Drive](https://drive.google.com/file/d/1QTe19Ltg5KMjIYSHuNT95saOf6F1g5Qc/view?usp=sharing)
+
+### [4. Частотная область и многомасштабный анализ](./4/)
+
+- **Лекция:** [`L04.pdf`](./4/L04.pdf)
 
 ## Домашние задания
 
@@ -69,10 +72,6 @@
 ### [ДЗ 1. Подготовка исторической рукописи к чтению](./hw/1/)
 
 Исследование методов обработки изображений для улучшения читаемости исторического документа: контраст, шум, размытие.
-
-### [Лекция 4. Частотная область и многомасштабный анализ](./4/)
-
-- **Лекция:** [`L04.pdf`](./4/L04.pdf)
 
 ---
 

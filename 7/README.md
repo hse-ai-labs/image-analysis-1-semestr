@@ -5,6 +5,6 @@
 
 ## Материалы
 
-- **Лекция:** ...
+- **Лекция:** [`L07.pdf`](./L07.pdf)
 - **Ноутбук семинара:** [`7_seminar_geometry_homography_ransac_student.ipynb`](./7_seminar_geometry_homography_ransac_student.ipynb)
 - **Задача по желанию:** [`task_seminar_07.zip`](./task_seminar_07.zip)

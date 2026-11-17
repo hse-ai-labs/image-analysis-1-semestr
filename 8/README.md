@@ -5,6 +5,6 @@
 
 ## Материалы
 
-- **Лекция:** [...](...)
+- **Лекция:** [`L08.pdf`](./L08.pdf)
 - **Ноутбук семинара:** [`8_seminar_segmentation_student.ipynb`](./8_seminar_segmentation_student.ipynb)
 - **Видео семинара:** [Google Drive](https://drive.google.com/file/d/1uzpxdqHDggL7O90CLVXqMGRepB1QszXr/view?usp=sharing)

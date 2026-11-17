@@ -22,7 +22,7 @@
 | 5 | Градиенты, границы и преобразование Хафа | [L05.pdf](./5/L05.pdf) |
 | 6 | Особые точки и локальные дескрипторы | [L06.pdf](./6/L06.pdf) |
 | 7 | Геометрия: преобразования, гомография, RANSAC | [L07.pdf](./7/L07.pdf) |
-| 8 | Сегментация изображений | — |
+| 8 | Сегментация изображений | [L08.pdf](./8/L08.pdf) |
 | 9 | Математическая морфология и анализ формы | — |
 
 **Блок III. Признаки и распознавание**
@@ -82,6 +82,12 @@
 
 - **Лекция:** [`L07.pdf`](./7/L07.pdf)
 - **Ноутбук семинара:** [`7_seminar_geometry_homography_ransac_student.ipynb`](./7/7_seminar_geometry_homography_ransac_student.ipynb)
+
+### [8. Сегментация изображений](./8/)
+
+- **Лекция:** [`L08.pdf`](./8/L08.pdf)
+- **Ноутбук семинара:** [`8_seminar_segmentation_student.ipynb`](./8/8_seminar_segmentation_student.ipynb)
+- **Видео семинара:** [Google Drive](https://drive.google.com/file/d/1uzpxdqHDggL7O90CLVXqMGRepB1QszXr/view?usp=sharing)
 
 ## Домашние задания
 
